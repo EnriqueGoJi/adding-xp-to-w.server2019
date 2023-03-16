@@ -14,7 +14,7 @@ We need to modify some files in this rute of the registry.
 
 Set the default and install_Languaje key with the code you want. (I use the United Kingdom, 0809)
 
-The keys are in the languaje_key file.
+The keys are in the languaje codes file.
 
 Then you need to config in the regional configurations all the options with the English languaje.
 
